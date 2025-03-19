@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![DorkHunter Banner](https://i.imgur.com/JY1MNLF.png)
+![DorkHunter Banner]
 
 [![Licença: MIT](https://img.shields.io/badge/Licença-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js: v18+](https://img.shields.io/badge/Node.js-v18+-green.svg)](https://nodejs.org/)
@@ -27,12 +27,6 @@
 - **🏃 Modo Apenas Exibição** - Visualize dorks sem visitar sites automaticamente
 - **⚙️ Configuração Baseada em Arquivos** - Direcionamento fácil de domínios via arquivo de configuração
 
-## 🖼️ Capturas de Tela
-
-<div align="center">
-  <img src="https://i.imgur.com/example1.png" width="400" alt="Exemplo de Captura de Tela 1">
-  <img src="https://i.imgur.com/example2.png" width="400" alt="Exemplo de Captura de Tela 2">
-</div>
 
 ## 🚀 Início Rápido
 
