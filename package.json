@@ -1,0 +1,28 @@
+{
+    "name": "dorks-security-scanner",
+    "version": "1.0.0",
+    "description": "Scanner de segurança automatizado usando dorks em múltiplos motores de busca",
+    "main": "dork-scanner.js",
+    "type": "module",
+    "scripts": {
+      "start": "node dork-scanner.js",
+      "scan": "node dork-scanner.js"
+    },
+    "keywords": [
+      "security",
+      "dorks",
+      "vulnerability",
+      "scanner",
+      "google",
+      "bing",
+      "puppeteer",
+      "automation"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "chalk": "^5.3.0",
+      "fs-extra": "^11.2.0",
+      "puppeteer": "^22.1.0"
+    }
+  }

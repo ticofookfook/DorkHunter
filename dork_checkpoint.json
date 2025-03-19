@@ -1,0 +1,9 @@
+{
+  "lastIndex": 1,
+  "reportContent": "",
+  "processedDorks": [
+    "site:tesla.com filetype:env OR filetype:yml password",
+    "site:tesla.com filetype:xml password"
+  ],
+  "timestamp": "2025-03-19T01:33:53.150Z"
+}
