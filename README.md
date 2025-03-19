@@ -1,8 +1,7 @@
 # 🔍 DorkHunter - Scanner Avançado de Dorks para Segurança
 
 <div align="center">
-  
-![DorkHunter Banner]
+
 
 [![Licença: MIT](https://img.shields.io/badge/Licença-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js: v18+](https://img.shields.io/badge/Node.js-v18+-green.svg)](https://nodejs.org/)
